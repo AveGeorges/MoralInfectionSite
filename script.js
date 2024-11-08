@@ -1,0 +1,1 @@
+doc = window.document.querySelectorAll('body')
